@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "53773e587543d210",
+    "type": "split",
+    "children": [
+      {
+        "id": "88154763e3ccbe82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b20e599a2116e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "tasks/main.md"
+              }
+            }
+          },
+          {
+            "id": "08155c5fb844187f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gdd/заклинания/Главная.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3adf1d0e22d6ab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d501f19f924d727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dead7827b36baddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25cc1799d4b67ec4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9620b0660d706ab6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7411a7b61e8387ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f439180400f43f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4169d83dd1914fd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gdd/заклинания/Главная.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f56320e8684a45b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "gdd/заклинания/Главная.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e9ca784f84147dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06359c52dd11d9c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gdd/заклинания/Главная.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08155c5fb844187f",
+  "lastOpenFiles": [
+    "gdd/уровни/Главная.md",
+    "gdd/заклинания/Главная.md",
+    "gdd/персонажи/Главная.md",
+    "gdd/сценарий/Главная.md",
+    "tasks/main.md",
+    "Идеи для проекта.md",
+    "gdd/заклинания",
+    "Untitled",
+    "gdd/персонажи",
+    "gdd/уровни",
+    "gdd/сценарий",
+    "gdd",
+    "ыаывы.md",
+    "tasks",
+    "Untitled.canvas"
+  ]
+}
