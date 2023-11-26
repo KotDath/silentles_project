@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gdd/уровни/5 уровень.md",
+                "file": "gdd/противники/Главная.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gdd/уровни/5 уровень.md",
+                "file": "gdd/противники/Главная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gdd/уровни/5 уровень.md",
+                "file": "gdd/противники/Главная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gdd/уровни/5 уровень.md"
+                "file": "gdd/противники/Главная.md"
               }
             }
           }
@@ -148,20 +148,20 @@
   },
   "active": "b20e599a2116e9b1",
   "lastOpenFiles": [
-    "gdd/уровни/4 уровень.md",
-    "gdd/уровни/5 уровень.md",
-    "gdd/уровни/3 уровень.md",
-    "gdd/уровни/2 уровень.md",
+    "gdd/персонажи/Главная.md",
     "gdd/уровни/1 уровень.md",
-    "gdd/уровни/0 уровень.md",
     "Идеи для проекта.md",
     "gdd/Описание игрового процесса..md",
+    "gdd/уровни/5 уровень.md",
+    "gdd/уровни/4 уровень.md",
+    "gdd/уровни/3 уровень.md",
+    "gdd/уровни/2 уровень.md",
+    "gdd/уровни/0 уровень.md",
     "gdd/заклинания/Главная.md",
     "gdd/сценарий/Основной сценарий проекта..md",
     "gdd/противники/Главная.md",
     "tasks/main.md",
     "gdd/противники",
-    "gdd/персонажи/Главная.md",
     "gdd/заклинания",
     "Untitled",
     "gdd/персонажи",
