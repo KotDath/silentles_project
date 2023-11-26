@@ -11,26 +11,15 @@
             "id": "b20e599a2116e9b1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "tasks/main.md"
-              }
-            }
-          },
-          {
-            "id": "08155c5fb844187f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "gdd/заклинания/Главная.md",
+                "file": "gdd/уровни/5 уровень.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gdd/заклинания/Главная.md",
+                "file": "gdd/уровни/5 уровень.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gdd/заклинания/Главная.md",
+                "file": "gdd/уровни/5 уровень.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gdd/заклинания/Главная.md"
+                "file": "gdd/уровни/5 уровень.md"
               }
             }
           }
@@ -157,14 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08155c5fb844187f",
+  "active": "b20e599a2116e9b1",
   "lastOpenFiles": [
-    "gdd/уровни/Главная.md",
-    "gdd/заклинания/Главная.md",
-    "gdd/персонажи/Главная.md",
-    "gdd/сценарий/Главная.md",
-    "tasks/main.md",
+    "gdd/уровни/4 уровень.md",
+    "gdd/уровни/5 уровень.md",
+    "gdd/уровни/3 уровень.md",
+    "gdd/уровни/2 уровень.md",
+    "gdd/уровни/1 уровень.md",
+    "gdd/уровни/0 уровень.md",
     "Идеи для проекта.md",
+    "gdd/Описание игрового процесса..md",
+    "gdd/заклинания/Главная.md",
+    "gdd/сценарий/Основной сценарий проекта..md",
+    "gdd/противники/Главная.md",
+    "tasks/main.md",
+    "gdd/противники",
+    "gdd/персонажи/Главная.md",
     "gdd/заклинания",
     "Untitled",
     "gdd/персонажи",
